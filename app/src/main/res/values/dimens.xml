@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="search_margin">16dp</dimen>
+    <dimen name="text_margin_top">5dp</dimen>
+    <dimen name="text_name_photographer_margin_start">5dp</dimen>
+</resources>
